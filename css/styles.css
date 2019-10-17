@@ -1,0 +1,94 @@
+/*.center-text{
+    text-align: center;
+    color: magenta;
+}
+
+.seemore_butts{
+    border-radius: 5px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 5px 2px #000000;
+}*/
+
+
+#Driver-Table{
+    position:relative;
+    top: 150px;
+    left: 150px;
+    width: 75%;
+    
+}
+
+.table_table-dark{
+    border-spacing: 100px;
+    padding: 100px;
+}
+
+.button1{
+    position:relative;
+    top: 50px;
+    left: 200px;
+    right: -420px;
+    bottom: -191px;
+    background-color: #F16051;
+    color: white;
+    width: 330px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.input1{
+    position:relative;
+    top: 50px;
+    left: 160px;
+    right: -420px;
+    bottom: -191px;
+    width: 250px;
+    height: 50px;
+}
+
+.input2{
+    position:relative;
+    top: 50px;
+    left: 180px;
+    right: -420px;
+    bottom: -191px;
+    width: 250px;
+    height: 50px;
+}
+
+.body1{
+    font-size: 11px;
+}
+
+.header1{
+    font-size: 14px;
+}
+
+#name0{
+    color: #0D68E0;
+}
+
+#name1{
+    color: #0D68E0;
+}
+
+#name2{
+    color: #0D68E0;
+}
+
+#name3{
+    color: #0D68E0;
+}
+
+#name4{
+    color: #0D68E0;
+}
+
+#name5{
+    color: #0D68E0;
+}
+
+#name6{
+    color: #0D68E0;
+}
+
